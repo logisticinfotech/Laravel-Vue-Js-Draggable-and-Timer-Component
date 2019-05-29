@@ -45,4 +45,4 @@
     php artisan serve
 
 
-[You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/handle-different-types-user-role-laravel).
+[You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/laravel-vue-js-draggable-component/).
