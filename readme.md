@@ -11,38 +11,27 @@
     - Countdown Timer Component
 
 
-- **First We can update composer using command:**
+- **Draggable Component**
 
-	composer update
+	Draggable component is used for drag any component and move from one place to other place in screen.
 
-    Above command will update laravel package and install vendor folder.
+    To make component draggable need to install draggable library run the below command in project command prompt
 
-
-- **We can install vue js by command:**
-
-	npm install
-
-    Above command will install npm package in your project folder for vue js.
+    npm install vue-drag-it-dude --save
 
 
-- **Create .env file:**
+- **Countdown Timer Component**
 
-    Then create your .env file.
+	It is used for display timer counter. Using of this timer  we can manage time based condition or functionality like we can used timer counter for timer based quiz.
 
+    To display timer component need to install countdown timer library run the below command in project command prompt
 
- - **Generate key using below command:**
-
-    php artisan key:generate
-
-
-- **Run below command for run npm package:**
-
-    npm run dev
+    npm i vuejs-countdown-timer -S
 
 
-- **Run below command for start project:**
+- **Conclusion**
 
-    php artisan serve
+    Component is contained unit of code that represents logical block of your application. So, basically Draggable and Time countdown components are easy to use and easy to customize the options.
 
 
 [You can check full detail about it. you can open our blog](https://www.logisticinfotech.com/blog/laravel-vue-js-draggable-component/).
